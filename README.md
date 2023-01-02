@@ -1,6 +1,2 @@
-# SimplyMime
-A control at you fingertips
-
-
-
-### Coming Soon
+![]("assets/1.png")
+![]("assets/2.png")
